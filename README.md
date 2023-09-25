@@ -23,7 +23,7 @@ You will find
    Sessions:
     
     1. **Introduction to tensors networks** (1.5 hours)
-    2. **Entanglement ** (1 hour)
+    2. **Entanglement** (1 hour)
        
 - Day 2:
    Sessions: 
@@ -39,7 +39,7 @@ You will find
 - Day 4:
    Sessions:
   1. **Variational optimization** (1.5 hours)
-  2. **Time evolution and higher dimensions (1 hour)
+  2. **Time evolution and higher dimensions** (1 hour)
 
   ## The schedule tutorials
   
